@@ -17,6 +17,22 @@ color: white;
 
 }
 
+.parrafo-uno{
+    color: black;
+}
+
 h2{
     color: blue;
+}
+
+@media only screen and (max-width: 500px){
+    
+}
+
+@media only screen and (max-width: 501px) and (max-width: 960px){
+
+}
+
+@media only screen and (max-width: 961px){
+
 }
